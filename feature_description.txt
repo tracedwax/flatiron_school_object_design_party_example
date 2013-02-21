@@ -1,0 +1,47 @@
+Feature: going to a party
+
+Arrive
+Drink
+Dance
+Go Home
+
+Requirement 1: people party 
+  Person arrives at the party
+  Person arrives at the party
+  Person arrives at the party
+
+Requirement 2: It shows their name
+  Trace arrives at the party
+  Sabrina arrives at the party
+  Avi arrives at the party
+
+Requirement 3: Party goers drink
+  Trace has a drink
+  Sabrina has a drink
+  Avi has a drink
+
+Requirement 4: Party goers dance
+  Trace dances
+  Sabrina dances
+  Avi dances
+
+Requirement 5: Party goers go home
+  Trace goes home
+  Sabrina goes home
+  Avi goes home
+
+Requirement 6: Party goers go home to their own location
+  Trace stays at the party
+  Sabrina goes home to New Jersey
+  Avi goes home to Brooklyn
+
+Requirement 7: Sober people don't drink
+  Trace drinks some seltzer
+  Sabrina drinks a beer
+  Avi drinks a beer
+
+Requirement 8: Sober people do the robot.  Tipsy people do the twist.
+  Trace does the robot
+  Sabrina does the twist
+  Avi does the twist
+
